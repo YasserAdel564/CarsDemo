@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="splash_label">Splash</string>
+    <string name="home_label">Home</string>
+    <string name="used_car">The Car is Used</string>
+    <string name="new_car">The Car is New</string>
+    <string name="construction_year">Construction Year</string>
+
+</resources>
